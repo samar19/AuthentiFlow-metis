@@ -62,7 +62,7 @@ function Base({children}) {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top" >
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">By Origin </Link>
+          <Link className="navbar-brand" to="/">Authenti Flow </Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
