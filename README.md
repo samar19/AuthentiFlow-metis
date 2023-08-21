@@ -7,7 +7,7 @@
 # screencast link 
 # youtube : 
 # persentation link : 
-# github : https://github.com/samar19/AuthentiFlow-metis
+# github : https://github.com/samar19/AuthentiFlow-metis/tree/main/AuthentiFlow-Metis
 # milestone paper  : https://docs.google.com/document/d/1u0hE64BldQxwfnoOJH7apvAbgbw6gptRrZbrrWbr-ug/edit?usp=sharing
 
 
