@@ -125,3 +125,49 @@ Testing Vyper contracts with Foundry.
 
 Guide on deploying smart contracts using Foundry.
 
+# and here my exapmle course 
+
+# Quantum Insights: Video Explorations
+
+## 1. Zero-Knowledge Proof: PLONK
+
+- **Video:** [Zero-Knowledge Proof: PLONK](https://youtu.be/VbXO88Cm9-E)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 3
+
+## 2. The view from a Wigner bubble
+
+- **Video:** [The view from a Wigner bubble](https://youtu.be/oM7FsOB5qxw)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 9
+
+## 3. A possibilistic no go theorem on the Wigner's friend paradox
+
+- **Video:** [A possibilistic no go theorem on the Wigner's friend paradox](https://youtu.be/OEx-JdPwsCk)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 10
+
+## 4. Elliptic Curve Cryptography and Public Key Encryption
+
+- **Video:** [Elliptic Curve Cryptography and Public Key Encryption](https://youtu.be/UJqIiLc4FcE)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 11
+
+## 5. Quantum Natural Language Processing
+
+- **Video:** [Quantum Natural Language Processing](https://youtu.be/CiYs0b4p_Ow)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 12
+
+## 6. Superconducting Quantum Computing
+
+- **Video:** [Superconducting Quantum Computing](https://youtu.be/cFxWWxJMNPM)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+- **Index:** 16
+
+## 7. ChatGPT-affiliated projects
+
+- **Video:** [ChatGPT-affiliated projects](https://youtu.be/acxheH0BkGE)
+- **Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLpkpEL9gYGeyK9CDL7PfZSO7Ur4VkZSWf)
+
+
